@@ -1,0 +1,6 @@
+author: VapeHard (abhi made this possible)
+version: 1.0
+main: me.vapehard.Main
+name: TestPlugin
+commands:
+ heal:
